@@ -1,4 +1,4 @@
-# WordTally
+# Word Tally Two
 Web application that displays frequencies of English token words.
 
 In bash run:
